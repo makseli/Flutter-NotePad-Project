@@ -1,0 +1,1 @@
+const String toggLogo = 'assets/images/togg.png';
